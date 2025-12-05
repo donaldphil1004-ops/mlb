@@ -1,0 +1,371 @@
+{
+  "header": {
+    "italy": "Italia",
+    "spain": "Spagna",
+    "businessHours": "Lun-Ven: 09:00-17:00",
+    "emergencyLine": "Linea di Emergenza 24/7",
+    "home": "Home",
+    "aboutUs": "Chi Siamo",
+    "services": "Servizi",
+    "resources": "Risorse",
+    "testimonials": "Testimonianze",
+    "news": "Notizie",
+    "bookConsultation": "Prenota Consulenza"
+  },
+  "hero": {
+    "badge": "Specialisti in Diritto Immobiliare in Spagna e Italia",
+    "title": "Servizi Internazionali di Alloggio e Trasferimento per Spagna e Italia",
+    "description": "Assistenza legale esperta per trasferimenti internazionali, sistemazioni abitative e supporto al trasferimento per studenti e professionisti che si trasferiscono in Spagna e Italia. Gestiamo tutti gli adempimenti abitativi per garantire una transizione senza problemi.",
+    "freeConsultation": "Consulenza Gratuita",
+    "ourServices": "I Nostri Servizi",
+    "casesWon": "Casi Vinti",
+    "clientsServed": "Clienti Serviti",
+    "yearsExperience": "Anni di Esperienza",
+    "trustedBy": "Scelti da studenti di",
+    "countries": "Oltre 50 Paesi"
+  },
+  "about": {
+    "title": "Chi e MEDITERRAN LEGAL ALLIANCE",
+    "subtitle": "Servizi legali specializzati per trasferimenti abitativi internazionali, ricollocazione e diritti degli inquilini in Spagna e Italia.",
+    "missionTitle": "La Nostra Missione",
+    "missionText1": "MEDITERRAN LEGAL ALLIANCE e specializzata nell'assistenza abitativa completa per studenti internazionali e professionisti che si trasferiscono in Spagna e Italia. Gestiamo tutti gli aspetti del vostro trasferimento internazionale e delle sistemazioni abitative per garantire una transizione senza intoppi.",
+    "missionText2": "Il nostro team di esperti gestisce contratti di locazione, rapporti con i proprietari, requisiti documentali e conformita legale per i trasferimenti internazionali nel Mediterraneo. Forniamo supporto bilingue per rendere la vostra transizione fluida e senza stress.",
+    "specialistsTitle": "Specialisti in Spagna e Italia",
+    "specialistsDesc": "Autorizzati e certificati in diritto immobiliare spagnolo e italiano",
+    "multilingualTitle": "Supporto Multilingue",
+    "multilingualDesc": "Fluenti in inglese, spagnolo, italiano e altre lingue",
+    "immigrationTitle": "Conoscenza del Diritto dell'Immigrazione",
+    "immigrationDesc": "Comprensione delle implicazioni del visto sulle questioni abitative",
+    "clientTitle": "Approccio Incentrato sul Cliente",
+    "clientDesc": "Prezzi trasparenti e comunicazione chiara ad ogni passo",
+    "credentialsTitle": "Le Nostre Credenziali",
+    "managingPartner": "Socio Amministratore",
+    "seniorPartner": "Socio Senior",
+    "partner": "Socio"
+  },
+  "services": {
+    "title": "I Nostri Servizi",
+    "subtitle": "Soluzioni complete di alloggio e trasferimento internazionale per studenti e professionisti che si trasferiscono in Spagna e Italia",
+    "leaseReview": {
+      "title": "Revisione del Contratto di Locazione",
+      "description": "Analisi esperta dei contratti di affitto prima della firma. Identifichiamo clausole ingiuste, costi nascosti e termini che potrebbero svantaggiare gli inquilini internazionali.",
+      "examples": [
+        "Revisione delle penali per risoluzione anticipata",
+        "Analisi delle clausole di aumento dell'affitto",
+        "Esame delle restrizioni al subaffitto",
+        "Chiarimento delle responsabilita di manutenzione"
+      ]
+    },
+    "landlordDispute": {
+      "title": "Risoluzione delle Controversie con i Proprietari",
+      "description": "Rappresentanza aggressiva nei conflitti con i proprietari. Dalle negoziazioni informali al contenzioso formale, proteggiamo i vostri diritti.",
+      "examples": [
+        "Difesa contro sfratto illegale",
+        "Applicazione dei problemi di abitabilita",
+        "Reclami per molestie e ritorsioni",
+        "Controversie per violazione del contratto"
+      ]
+    },
+    "discrimination": {
+      "title": "Difesa contro la Discriminazione Abitativa",
+      "description": "Combattiamo la discriminazione illegale basata sull'origine nazionale, lo status di immigrazione o il background culturale. I vostri diritti sono protetti dalla legge.",
+      "examples": [
+        "Rifiuto basato sullo status del visto",
+        "Discriminazione sulla fonte di reddito",
+        "Sfruttamento delle barriere linguistiche",
+        "Pregiudizio culturale nelle domande"
+      ]
+    },
+    "securityDeposit": {
+      "title": "Recupero del Deposito Cauzionale",
+      "description": "Recupero dei depositi trattenuti ingiustamente. Gestiamo lettere di diffida, negoziazioni e rappresentanza in tribunale.",
+      "examples": [
+        "Controversie su detrazioni improprie",
+        "Mancata restituzione dei depositi",
+        "Richieste eccessive di danni",
+        "Applicazione del calcolo degli interessi"
+      ]
+    },
+    "contractNegotiation": {
+      "title": "Negoziazione dei Contratti",
+      "description": "Rappresentanza professionale durante le negoziazioni di locazione per garantire condizioni favorevoli e proteggere dallo sfruttamento.",
+      "examples": [
+        "Negoziazioni per la riduzione dell'affitto",
+        "Flessibilita della durata del contratto",
+        "Sistemazioni per la politica sugli animali",
+        "Discussioni sulle utenze"
+      ]
+    },
+    "immigrationHousing": {
+      "title": "Alloggio Legato all'Immigrazione",
+      "description": "Guida specializzata su questioni abitative che si intersecano con lo status del visto, l'autorizzazione al lavoro e i requisiti di residenza.",
+      "examples": [
+        "Documentazione del visto per i contratti",
+        "Notifiche di cambio di indirizzo",
+        "Lettera di alloggio per l'immigrazione",
+        "Impatti del cambio di status sui contratti"
+      ]
+    },
+    "weHandle": "Gestiamo:",
+    "ctaTitle": "Hai Bisogno di Aiuto per il Tuo Trasferimento in Spagna o Italia?",
+    "ctaDescription": "Contattaci per una consulenza gratuita per discutere le tue esigenze di trasferimento internazionale e alloggio.",
+    "ctaButton": "Prenota Consulenza Gratuita"
+  },
+  "resources": {
+    "title": "Risorse e Supporto",
+    "subtitle": "Guide gratuite, checklist e risposte alle domande comuni sul diritto abitativo",
+    "guidesTab": "Guide Scaricabili",
+    "faqsTab": "Domande Frequenti",
+    "downloadPdf": "Scarica PDF",
+    "pages": "pagine",
+    "guides": {
+      "studentRights": {
+        "title": "Guida ai Diritti Abitativi degli Studenti Internazionali",
+        "description": "Panoramica completa dei tuoi diritti come studente internazionale che affitta negli Stati Uniti"
+      },
+      "leaseChecklist": {
+        "title": "Checklist del Contratto di Locazione",
+        "description": "Punti essenziali da verificare prima di firmare qualsiasi contratto di affitto"
+      },
+      "securityDeposit": {
+        "title": "Diritti e Recupero del Deposito Cauzionale",
+        "description": "Comprendere le leggi sui depositi e come recuperare i fondi trattenuti ingiustamente"
+      },
+      "landlordDisputes": {
+        "title": "Gestire le Controversie con i Proprietari",
+        "description": "Guida passo passo per risolvere i conflitti con il proprietario"
+      },
+      "discrimination": {
+        "title": "Discriminazione Abitativa: Conosci i Tuoi Diritti",
+        "description": "Riconoscere e combattere la discriminazione abitativa illegale"
+      },
+      "visaDocumentation": {
+        "title": "Status del Visto e Documentazione Abitativa",
+        "description": "Documenti richiesti e considerazioni legali per gli inquilini internazionali"
+      }
+    },
+    "faqs": {
+      "q1": {
+        "question": "Un proprietario puo rifiutarsi di affittarmi perche ho un visto studentesco?",
+        "answer": "No. La discriminazione basata sullo status di immigrazione o sull'origine nazionale e illegale secondo il Fair Housing Act. I proprietari possono verificare la tua capacita di pagare l'affitto, ma non possono rifiutare categoricamente i titolari di visto. Se lo sperimenti, contattaci immediatamente."
+      },
+      "q2": {
+        "question": "Cosa devo fare se il proprietario entra nel mio appartamento senza preavviso?",
+        "answer": "La maggior parte degli stati richiede che i proprietari diano un preavviso di 24-48 ore, tranne in caso di emergenza. Documenta ogni ingresso non autorizzato con date e orari. Invia un avviso scritto citando le leggi del tuo stato. Se continua, possiamo aiutarti ad intraprendere azioni legali."
+      },
+      "q3": {
+        "question": "Il proprietario sta trattenendo tutto il mio deposito cauzionale per normale usura. E legale?",
+        "answer": "No. I proprietari non possono detrarre per la normale usura. Possono detrarre solo per danni oltre l'uso ragionevole. Richiedi un rendiconto dettagliato entro i termini richiesti dal tuo stato. Possiamo aiutarti a recuperare i depositi trattenuti ingiustamente piu gli interessi."
+      },
+      "q4": {
+        "question": "Posso rescindere anticipatamente il contratto se devo tornare nel mio paese?",
+        "answer": "Dipende dai termini del contratto e dalle leggi statali. Alcuni stati consentono la risoluzione anticipata con preavviso adeguato e penali. Verifica la clausola di risoluzione anticipata del tuo contratto. Possiamo negoziare con il tuo proprietario per minimizzare le penali o trovare un inquilino sostitutivo qualificato."
+      },
+      "q5": {
+        "question": "L'appartamento ha muffa e il proprietario non la ripara. Cosa posso fare?",
+        "answer": "I proprietari devono mantenere condizioni abitabili. Documenta la muffa con foto e reclami scritti. Invia una richiesta formale di riparazione. Se ignorata, potresti avere il diritto di trattenere l'affitto, riparare e detrarre, o rescindere il contratto. Possiamo guidarti attraverso il processo legale appropriato."
+      },
+      "q6": {
+        "question": "Ho bisogno di un codice fiscale per affittare un appartamento?",
+        "answer": "No. I proprietari non possono richiedere il codice fiscale americano. Puoi fornire un numero di identificazione fiscale individuale (ITIN), passaporto o altra identificazione. Richiedere il SSN puo costituire discriminazione contro i residenti internazionali."
+      },
+      "q7": {
+        "question": "Il proprietario minaccia di chiamare l'immigrazione. Cosa devo fare?",
+        "answer": "Questa e ritorsione e molestia illegale. Il tuo status di immigrazione e separato dai tuoi diritti abitativi. Documenta tutte le minacce immediatamente. Non interagire direttamente. Contattaci immediatamente per protezione legale di emergenza."
+      },
+      "q8": {
+        "question": "Di quanto puo aumentare l'affitto il proprietario?",
+        "answer": "A meno che tu non abbia il controllo dell'affitto, i proprietari generalmente possono aumentare l'affitto al rinnovo del contratto. Tuttavia, devono dare un preavviso adeguato (di solito 30-60 giorni) e non possono aumentare l'affitto come ritorsione. Gli aumenti a meta contratto generalmente non sono consentiti a meno che non specificato nel tuo accordo."
+      }
+    },
+    "ctaTitle": "Non Trovi Quello che Cerchi?",
+    "ctaDescription": "Il nostro team e qui per rispondere alle tue domande specifiche sul diritto abitativo.",
+    "ctaButton": "Fai una Domanda Legale"
+  },
+  "testimonials": {
+    "title": "Storie di Successo dei Clienti",
+    "subtitle": "Esperienze reali di studenti internazionali e professionisti che abbiamo aiutato",
+    "from": "Da",
+    "averageRating": "Valutazione Media",
+    "reviews": "Recensioni",
+    "successRate": "Tasso di Successo"
+  },
+  "blog": {
+    "title": "Notizie e Aggiornamenti Legali",
+    "subtitle": "Resta informato sui cambiamenti del diritto abitativo, i diritti degli inquilini e gli aggiornamenti legali importanti che riguardano i residenti internazionali",
+    "readMore": "Leggi di Piu",
+    "viewAllArticles": "Vedi Tutti gli Articoli",
+    "subscribeTitle": "Iscriviti alla Nostra Newsletter",
+    "subscribeDescription": "Ricevi aggiornamenti legali e consigli sull'alloggio nella tua email",
+    "emailPlaceholder": "Inserisci la tua email",
+    "subscribe": "Iscriviti",
+    "categories": {
+      "legalUpdates": "Aggiornamenti Legali",
+      "tenantRights": "Diritti dell'Inquilino",
+      "caseResults": "Risultati dei Casi",
+      "howToGuide": "Guida Pratica",
+      "leaseReview": "Revisione del Contratto",
+      "immigrationHousing": "Immigrazione e Alloggio"
+    },
+    "articles": {
+      "a1": {
+        "title": "Nuove Leggi di Protezione degli Inquilini in Vigore nel 2024",
+        "excerpt": "Comprendere le ultime normative statali e federali che proteggono gli inquilini internazionali dalla discriminazione e dalle pratiche ingiuste.",
+        "content": {
+          "p1": "A partire da gennaio 2024, importanti nuove leggi di protezione degli inquilini sono entrate in vigore in Spagna e Italia, fornendo maggiori garanzie per gli inquilini internazionali. Queste normative affrontano preoccupazioni di lunga data sulla discriminazione, pratiche di locazione ingiuste e lo sfruttamento di cittadini stranieri non familiari con le leggi locali sull'alloggio.",
+          "p2": "La nuova legislazione introduce sanzioni piu severe per i proprietari che discriminano in base alla nazionalita o allo status del visto, impone termini contrattuali piu chiari in piu lingue e stabilisce meccanismi di risoluzione delle controversie piu rapidi, specificamente progettati per adattarsi ai vincoli di tempo degli studenti e lavoratori internazionali.",
+          "point1": "I proprietari devono ora fornire contratti di locazione nella lingua preferita dell'inquilino su richiesta",
+          "point2": "La discriminazione basata su nazionalita, status del visto o mancanza di storia creditizia locale e ora esplicitamente vietata con multe fino a 15.000€",
+          "point3": "I limiti del deposito cauzionale sono stati fissati a due mesi di affitto, con pagamenti di interessi obbligatori",
+          "point4": "Nuovi tribunali accelerati per le controversie abitative che coinvolgono residenti internazionali, con decisioni entro 30 giorni",
+          "conclusion": "Queste nuove protezioni rappresentano un grande passo avanti per i residenti internazionali in Spagna e Italia. Se ritieni che i tuoi diritti secondo queste nuove leggi siano stati violati, il nostro team legale puo aiutarti a comprendere le tue opzioni e intraprendere le azioni appropriate. Contattaci per una consulenza gratuita per discutere la tua situazione specifica."
+        }
+      },
+      "a2": {
+        "title": "Diritti sul Deposito Cauzionale: Cosa Devono Sapere gli Studenti Internazionali",
+        "excerpt": "Una guida completa per comprendere i tuoi diritti sul deposito cauzionale, la documentazione corretta e i processi di recupero.",
+        "content": {
+          "p1": "I depositi cauzionali sono una delle fonti piu comuni di controversie tra inquilini internazionali e proprietari. Molti studenti e professionisti internazionali non sono consapevoli dei loro diritti, portando alla trattenuta ingiusta dei depositi quando si trasferiscono. Comprendere la legge e la tua prima linea di difesa.",
+          "p2": "Sia in Spagna che in Italia, i proprietari sono legalmente obbligati a restituire i depositi cauzionali entro un termine specifico dopo la cessazione del contratto, generalmente 30 giorni. Possono detrarre solo per danni effettivi oltre la normale usura e devono fornire documentazione dettagliata per qualsiasi detrazione effettuata.",
+          "point1": "Documenta sempre le condizioni della proprieta con foto e video datati al momento dell'ingresso E dell'uscita",
+          "point2": "Richiedi un elenco inventario firmato dal proprietario quando ricevi le chiavi",
+          "point3": "La normale usura (piccoli graffi, vernice sbiadita, tappeti consumati) non puo essere detratta dal tuo deposito",
+          "point4": "Conserva tutte le ricevute per eventuali riparazioni o pulizie effettuate prima di lasciare la proprieta",
+          "conclusion": "Se il tuo proprietario rifiuta di restituire il deposito o fa detrazioni ingiuste, hai un ricorso legale. Il nostro studio ha recuperato con successo migliaia di euro in depositi trattenuti ingiustamente per clienti internazionali. Non lasciare che le barriere linguistiche o la scarsa familiarita con le leggi locali ti costino denaro che hai diritto di conservare."
+        }
+      },
+      "a3": {
+        "title": "Discriminazione Abitativa Basata sullo Status del Visto: Recente Vittoria in Tribunale",
+        "excerpt": "Il nostro studio ha rappresentato con successo studenti internazionali in un caso storico contro pratiche di affitto discriminatorie.",
+        "content": {
+          "p1": "In una sentenza storica questo mese, il nostro team legale ha ottenuto una vittoria significativa per studenti internazionali che affrontavano discriminazione abitativa a Barcellona. Il caso coinvolgeva una societa di gestione immobiliare che rifiutava sistematicamente le domande di affitto da cittadini non UE, indipendentemente dalle loro qualifiche finanziarie o dalla storia di locazione.",
+          "p2": "Il tribunale ha stabilito che richiedere la cittadinanza UE o la residenza permanente come condizione generale per l'affitto viola le leggi antidiscriminazione. Il convenuto e stato condannato a pagare 25.000€ di danni agli studenti colpiti e ad implementare nuove procedure di selezione non discriminatorie.",
+          "point1": "I proprietari non possono rifiutare i candidati basandosi esclusivamente sul tipo di visto o sulla nazionalita",
+          "point2": "Richiedere un garante locale solo per i cittadini stranieri e discriminatorio",
+          "point3": "Richieste di deposito piu alte per inquilini internazionali senza giustificazione sono illegali",
+          "point4": "Le vittime di discriminazione abitativa possono richiedere un risarcimento piu la copertura dei costi di alloggio alternativo",
+          "conclusion": "Questa sentenza stabilisce un importante precedente per i residenti internazionali in tutta la Spagna. Se ti e stato negato un alloggio in base alla tua nazionalita o allo status del visto, potresti avere motivi per un'azione legale. Il nostro team e impegnato a combattere la discriminazione abitativa e garantire un accesso paritario agli alloggi in affitto per tutti i candidati qualificati."
+        }
+      },
+      "a4": {
+        "title": "Come Documentare i Problemi di Abitabilita nel Tuo Affitto",
+        "excerpt": "Guida passo passo per gli inquilini internazionali su come documentare correttamente i problemi di manutenzione e costruire un caso legale solido.",
+        "content": {
+          "p1": "Vivere con problemi di abitabilita come muffa, infestazioni di parassiti, riscaldamento rotto o danni da acqua non e solo scomodo ma potenzialmente pericoloso. Come inquilino, hai il diritto legale a uno spazio abitabile e i proprietari sono obbligati a mantenere la proprieta in buone condizioni. Una documentazione adeguata e essenziale se devi intraprendere un'azione legale.",
+          "p2": "Molti inquilini internazionali esitano a segnalare i problemi, temendo ritorsioni o complicazioni con la loro situazione abitativa. Tuttavia, comprendere il processo di documentazione corretto ti protegge legalmente e rafforza la tua posizione se sorgono controversie.",
+          "point1": "Fotografa e riprendi tutti i problemi con timestamp - usa la funzione data automatica del telefono",
+          "point2": "Invia tutte le richieste di riparazione per iscritto via email o posta raccomandata per creare una traccia documentale",
+          "point3": "Mantieni un registro datato di tutte le comunicazioni con il proprietario riguardo ai problemi",
+          "point4": "Se esistono pericoli per la salute, richiedi un'ispezione ufficiale dalle autorita locali per l'edilizia",
+          "conclusion": "I problemi di abitabilita ben documentati possono supportare richieste di riduzione dell'affitto, risoluzione del contratto senza penali o risarcimento danni. Il nostro team legale aiuta regolarmente gli inquilini internazionali a navigare queste situazioni. Se il tuo proprietario non sta affrontando seri problemi di manutenzione, contattaci per comprendere i tuoi diritti e opzioni."
+        }
+      },
+      "a5": {
+        "title": "Comprendere i Termini del Contratto: Segnali di Allarme per gli Inquilini Internazionali",
+        "excerpt": "Clausole contrattuali comuni che potrebbero colpire ingiustamente studenti internazionali e professionisti, e come negoziare condizioni migliori.",
+        "content": {
+          "p1": "Prima di firmare qualsiasi contratto di locazione, e fondamentale comprendere ogni clausola e identificare i termini che potrebbero metterti in svantaggio. Sfortunatamente, alcuni proprietari includono disposizioni che sfruttano la scarsa familiarita degli inquilini internazionali con le leggi locali sull'affitto. Sapere cosa cercare puo farti risparmiare denaro e stress significativi.",
+          "p2": "Il nostro team legale ha esaminato migliaia di contratti di locazione e trova costantemente alcune clausole problematiche che gli inquilini internazionali dovrebbero contestare o negoziare. Essere informati ti permette di difendere condizioni eque prima di essere legalmente vincolato da un contratto sfavorevole.",
+          "point1": "Clausole di rinnovo automatico che ti vincolano senza consenso esplicito - assicurati di poter rescindere con preavviso ragionevole",
+          "point2": "Penali eccessive per risoluzione anticipata - queste dovrebbero essere proporzionali e chiaramente definite",
+          "point3": "Clausole che rinunciano al tuo diritto a una proprieta abitabile o ad intraprendere azioni legali - queste sono spesso inapplicabili",
+          "point4": "Requisiti di pagare per riparazioni che sono responsabilita del proprietario per legge",
+          "conclusion": "Non firmare mai un contratto che non comprendi completamente. Il nostro servizio di revisione dei contratti, disponibile in piu lingue, identifica le clausole problematiche e ti fornisce strategie di negoziazione. Un piccolo investimento nella revisione legale prima di firmare puo prevenire grandi problemi durante e dopo la tua locazione."
+        }
+      },
+      "a6": {
+        "title": "Protezione dallo Sfratto Durante i Cambiamenti di Status F-1",
+        "excerpt": "Come i cambiamenti nel tuo status di visto studentesco influenzano i tuoi diritti abitativi e quali protezioni legali sono disponibili.",
+        "content": {
+          "p1": "I cambiamenti nel tuo status di visto studentesco - che si tratti della transizione all'OPT, del cambio a un visto di lavoro o di complicazioni inaspettate dello status - non terminano automaticamente i tuoi diritti abitativi. A molti studenti internazionali viene detto erroneamente dai proprietari che i cambiamenti di status del visto consentono la risoluzione immediata del contratto o lo sfratto. Questo raramente e vero.",
+          "p2": "Il tuo contratto di locazione e un contratto indipendente dal tuo status di immigrazione. Mentre la tua capacita di rimanere nel paese potrebbe essere influenzata dai cambiamenti del visto, i proprietari generalmente non possono usare lo status di immigrazione come motivo di sfratto se stai rispettando gli obblighi del contratto.",
+          "point1": "Un contratto di locazione e un contratto vincolante - i cambiamenti di status del visto non annullano automaticamente il tuo accordo di affitto",
+          "point2": "I proprietari non possono sfrattarti basandosi solo sullo status di immigrazione se stai pagando l'affitto e seguendo i termini del contratto",
+          "point3": "Se devi lasciare il paese, negozia una risoluzione anticipata piuttosto che abbandonare il contratto",
+          "point4": "Documenta qualsiasi minaccia relativa al tuo status di immigrazione - questo potrebbe costituire discriminazione illegale",
+          "conclusion": "Se stai affrontando problemi abitativi legati a cambiamenti nel tuo status di visto, e importante comprendere sia i tuoi diritti di immigrazione che abitativi. Il nostro team ha esperienza nell'intersezione tra diritto dell'immigrazione e diritto abitativo, e puo aiutarti a navigare questa situazione complessa. Contattaci prima di prendere qualsiasi decisione che potrebbe influenzare la tua posizione legale."
+        }
+      }
+    },
+    "backToHome": "Torna alla Home",
+    "shareArticle": "Condividi questo articolo",
+    "relatedArticles": "Articoli Correlati",
+    "articleContent": {
+      "overview": "Panoramica",
+      "keyPoints": "Punti Chiave",
+      "conclusion": "Conclusione"
+    }
+  },
+  "contact": {
+    "title": "Prenota la Tua Consulenza Gratuita",
+    "subtitle": "Ottieni consulenza legale esperta da avvocati che comprendono la tua situazione unica come residente internazionale",
+    "form": {
+      "fullName": "Nome Completo",
+      "email": "Indirizzo Email",
+      "phone": "Numero di Telefono",
+      "country": "Paese di Origine",
+      "visaStatus": "Status del Visto",
+      "selectVisa": "Seleziona status del visto",
+      "issueType": "Tipo di Problema",
+      "selectIssue": "Seleziona tipo di problema",
+      "preferredLanguage": "Lingua Preferita per la Consulenza",
+      "describeSituation": "Descrivi la Tua Situazione",
+      "placeholder": "Per favore fornisci dettagli sul tuo problema abitativo...",
+      "submit": "Prenota Consulenza Gratuita",
+      "submitting": "Invio in corso...",
+      "confidential": "Le tue informazioni sono riservate e protette dal segreto professionale avvocato-cliente",
+      "successMessage": "Grazie! Abbiamo ricevuto la tua richiesta di consulenza. Il nostro team ti contattara entro 24 ore.",
+      "errorMessage": "Spiacenti, si e verificato un errore nell'invio della richiesta. Per favore chiamaci direttamente o riprova."
+    },
+    "visaOptions": {
+      "f1": "F-1 Studente",
+      "j1": "J-1 Visitatore di Scambio",
+      "h1b": "H-1B Lavoro",
+      "l1": "L-1 Trasferimento Intraaziendale",
+      "o1": "O-1 Abilita Straordinaria",
+      "other": "Altro"
+    },
+    "issueOptions": {
+      "leaseReview": "Revisione del Contratto di Locazione",
+      "landlordDispute": "Controversia con il Proprietario",
+      "discrimination": "Discriminazione Abitativa",
+      "securityDeposit": "Problema con il Deposito Cauzionale",
+      "contractNegotiation": "Negoziazione del Contratto",
+      "immigrationHousing": "Alloggio Legato all'Immigrazione",
+      "other": "Altro"
+    },
+    "contactInfo": {
+      "title": "Informazioni di Contatto",
+      "phone": "Telefono",
+      "email": "Email",
+      "businessHours": "Orari di Apertura",
+      "weekdays": "Lunedi - Venerdi"
+    },
+    "liveChat": {
+      "title": "Chat dal Vivo Disponibile",
+      "description": "Hai bisogno di assistenza immediata? Il nostro team di supporto multilingue e disponibile via chat durante gli orari di apertura.",
+      "button": "Inizia Chat dal Vivo"
+    }
+  },
+  "footer": {
+    "description": "Servizi internazionali di alloggio e trasferimento per Spagna e Italia.",
+    "quickLinks": "Link Rapidi",
+    "aboutUs": "Chi Siamo",
+    "services": "Servizi",
+    "resources": "Risorse",
+    "newsUpdates": "Notizie e Aggiornamenti",
+    "servicesTitle": "Servizi",
+    "leaseReview": "Revisione del Contratto",
+    "landlordDisputes": "Controversie con i Proprietari",
+    "housingDiscrimination": "Discriminazione Abitativa",
+    "securityDeposit": "Recupero del Deposito",
+    "contractNegotiations": "Negoziazione Contratti",
+    "immigrationHousing": "Alloggio e Immigrazione",
+    "contact": "Contatti",
+    "copyright": "© 2025 MEDITERRAN LEGAL ALLIANCE. Tutti i diritti riservati.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Termini di Servizio",
+    "accessibility": "Accessibilita",
+    "disclaimer": "Specialisti Legali in Spagna e Italia | Pubblicita di Avvocati | I risultati passati non garantiscono risultati simili"
+  }
+}

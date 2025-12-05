@@ -1,0 +1,371 @@
+{
+  "header": {
+    "italy": "Italy",
+    "spain": "Spain",
+    "businessHours": "Mon-Fri: 09:00-17:00",
+    "emergencyLine": "24/7 Emergency Line",
+    "home": "Home",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "resources": "Resources",
+    "testimonials": "Testimonials",
+    "news": "News",
+    "bookConsultation": "Book Consultation"
+  },
+  "hero": {
+    "badge": "Spain & Italy Housing Law Specialists",
+    "title": "International Housing & Transfer Services for Spain & Italy",
+    "description": "Expert legal assistance for international transfers, housing arrangements, and relocation support for students and working professionals moving to Spain and Italy. We handle all housing duties to ensure a smooth transition.",
+    "freeConsultation": "Free Consultation",
+    "ourServices": "Our Services",
+    "casesWon": "Cases Won",
+    "clientsServed": "Clients Served",
+    "yearsExperience": "Years Experience",
+    "trustedBy": "Trusted by students from",
+    "countries": "50+ Countries"
+  },
+  "about": {
+    "title": "About MEDITERRAN LEGAL ALLIANCE",
+    "subtitle": "Specialized legal services for international housing transfers, relocation, and tenant rights in Spain and Italy.",
+    "missionTitle": "Our Mission",
+    "missionText1": "MEDITERRAN LEGAL ALLIANCE specializes in comprehensive housing assistance for international students and working professionals relocating to Spain and Italy. We handle all aspects of your international transfer and housing arrangements to ensure a seamless transition.",
+    "missionText2": "Our expert team manages lease agreements, landlord relations, documentation requirements, and legal compliance for international relocations across the Mediterranean. We provide bilingual support to make your transition smooth and stress-free.",
+    "specialistsTitle": "Spain & Italy Specialists",
+    "specialistsDesc": "Licensed and certified in both Spanish and Italian housing law",
+    "multilingualTitle": "Multilingual Support",
+    "multilingualDesc": "Fluent in English, Spanish, Italian, and multiple other languages",
+    "immigrationTitle": "Immigration Law Knowledge",
+    "immigrationDesc": "Understanding visa implications on housing matters",
+    "clientTitle": "Client-Centered Approach",
+    "clientDesc": "Transparent pricing and clear communication every step",
+    "credentialsTitle": "Our Credentials",
+    "managingPartner": "Managing Partner",
+    "seniorPartner": "Senior Partner",
+    "partner": "Partner"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete international housing and transfer solutions for students and professionals relocating to Spain and Italy",
+    "leaseReview": {
+      "title": "Lease Agreement Review",
+      "description": "Expert analysis of rental contracts before you sign. We identify unfair clauses, hidden fees, and terms that may disadvantage international tenants.",
+      "examples": [
+        "Early termination penalties review",
+        "Rent increase clause analysis",
+        "Subletting restrictions examination",
+        "Maintenance responsibility clarification"
+      ]
+    },
+    "landlordDispute": {
+      "title": "Landlord Dispute Resolution",
+      "description": "Aggressive representation in conflicts with landlords. From informal negotiations to formal litigation, we protect your rights.",
+      "examples": [
+        "Illegal eviction defense",
+        "Habitability issues enforcement",
+        "Harassment and retaliation claims",
+        "Lease violation disputes"
+      ]
+    },
+    "discrimination": {
+      "title": "Housing Discrimination Defense",
+      "description": "Fighting illegal discrimination based on national origin, immigration status, or cultural background. Your rights are protected by law.",
+      "examples": [
+        "Denial based on visa status",
+        "Source of income discrimination",
+        "Language barrier exploitation",
+        "Cultural bias in applications"
+      ]
+    },
+    "securityDeposit": {
+      "title": "Security Deposit Recovery",
+      "description": "Recovering wrongfully withheld deposits. We handle demand letters, negotiations, and small claims court representation.",
+      "examples": [
+        "Improper deduction disputes",
+        "Failure to return deposits",
+        "Excessive damage claims",
+        "Interest calculation enforcement"
+      ]
+    },
+    "contractNegotiation": {
+      "title": "Contract Negotiations",
+      "description": "Professional representation during lease negotiations to secure favorable terms and protect against exploitation.",
+      "examples": [
+        "Rent reduction negotiations",
+        "Lease term flexibility",
+        "Pet policy accommodations",
+        "Utility arrangement discussions"
+      ]
+    },
+    "immigrationHousing": {
+      "title": "Immigration-Related Housing",
+      "description": "Specialized guidance on housing matters intersecting with visa status, work authorization, and residency requirements.",
+      "examples": [
+        "Visa documentation for leases",
+        "Address change notifications",
+        "Housing letter for immigration",
+        "Status change impacts on leases"
+      ]
+    },
+    "weHandle": "We handle:",
+    "ctaTitle": "Need Help with Your Move to Spain or Italy?",
+    "ctaDescription": "Contact us for a free consultation to discuss your international transfer and housing needs.",
+    "ctaButton": "Schedule Free Consultation"
+  },
+  "resources": {
+    "title": "Resources & Support",
+    "subtitle": "Free guides, checklists, and answers to common housing law questions",
+    "guidesTab": "Downloadable Guides",
+    "faqsTab": "Frequently Asked Questions",
+    "downloadPdf": "Download PDF",
+    "pages": "pages",
+    "guides": {
+      "studentRights": {
+        "title": "International Student Housing Rights Guide",
+        "description": "Complete overview of your rights as an international student renting in the United States"
+      },
+      "leaseChecklist": {
+        "title": "Lease Agreement Checklist",
+        "description": "Essential points to review before signing any rental contract"
+      },
+      "securityDeposit": {
+        "title": "Security Deposit Rights & Recovery",
+        "description": "Understanding deposit laws and how to recover wrongfully withheld funds"
+      },
+      "landlordDisputes": {
+        "title": "Handling Landlord Disputes",
+        "description": "Step-by-step guide to resolving conflicts with your landlord"
+      },
+      "discrimination": {
+        "title": "Housing Discrimination Know Your Rights",
+        "description": "Recognizing and fighting illegal housing discrimination"
+      },
+      "visaDocumentation": {
+        "title": "Visa Status & Housing Documentation",
+        "description": "Required documents and legal considerations for international renters"
+      }
+    },
+    "faqs": {
+      "q1": {
+        "question": "Can a landlord refuse to rent to me because I have a student visa?",
+        "answer": "No. Discrimination based on immigration status or national origin is illegal under the Fair Housing Act. Landlords may verify your ability to pay rent, but cannot categorically refuse visa holders. If you experience this, contact us immediately."
+      },
+      "q2": {
+        "question": "What should I do if my landlord enters my apartment without notice?",
+        "answer": "Most states require landlords to provide 24-48 hours notice except in emergencies. Document each unauthorized entry with dates and times. Send a written notice citing your state's laws. If it continues, we can help you take legal action."
+      },
+      "q3": {
+        "question": "My landlord is keeping my entire security deposit for normal wear and tear. Is this legal?",
+        "answer": "No. Landlords cannot deduct for normal wear and tear. They can only deduct for damage beyond reasonable use. Request an itemized statement within your state's required timeframe. We can help you recover wrongfully withheld deposits plus interest."
+      },
+      "q4": {
+        "question": "Can I break my lease early if I need to return to my home country?",
+        "answer": "It depends on your lease terms and state laws. Some states allow early termination with proper notice and penalties. Review your lease's early termination clause. We can negotiate with your landlord to minimize penalties or find a qualified replacement tenant."
+      },
+      "q5": {
+        "question": "The apartment has mold and the landlord won't fix it. What can I do?",
+        "answer": "Landlords must maintain habitable conditions. Document the mold with photos and written complaints. Send a formal repair request. If ignored, you may have the right to withhold rent, repair and deduct, or break your lease. We can guide you through the proper legal process."
+      },
+      "q6": {
+        "question": "Do I need a Social Security Number to rent an apartment?",
+        "answer": "No. Landlords cannot require a Social Security Number. You can provide an Individual Taxpayer Identification Number (ITIN), passport, or other identification. Requiring SSN may constitute discrimination against international residents."
+      },
+      "q7": {
+        "question": "My landlord is threatening to call immigration. What should I do?",
+        "answer": "This is illegal retaliation and harassment. Your immigration status is separate from your housing rights. Document all threats immediately. Do not engage directly. Contact us immediately for emergency legal protection."
+      },
+      "q8": {
+        "question": "How much can my landlord increase my rent?",
+        "answer": "Unless you have rent control, landlords can generally increase rent at lease renewal. However, they must provide proper notice (usually 30-60 days) and cannot increase rent as retaliation. Mid-lease increases are typically not allowed unless specified in your agreement."
+      }
+    },
+    "ctaTitle": "Can't Find What You're Looking For?",
+    "ctaDescription": "Our team is here to answer your specific questions about housing law.",
+    "ctaButton": "Ask a Legal Question"
+  },
+  "testimonials": {
+    "title": "Client Success Stories",
+    "subtitle": "Real experiences from international students and professionals we've helped",
+    "from": "From",
+    "averageRating": "Average Rating",
+    "reviews": "Reviews",
+    "successRate": "Success Rate"
+  },
+  "blog": {
+    "title": "Legal News & Updates",
+    "subtitle": "Stay informed about housing law changes, tenant rights, and important legal updates affecting international residents",
+    "readMore": "Read More",
+    "viewAllArticles": "View All Articles",
+    "subscribeTitle": "Subscribe to Our Newsletter",
+    "subscribeDescription": "Get legal updates and housing tips delivered to your inbox",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "categories": {
+      "legalUpdates": "Legal Updates",
+      "tenantRights": "Tenant Rights",
+      "caseResults": "Case Results",
+      "howToGuide": "How-To Guide",
+      "leaseReview": "Lease Review",
+      "immigrationHousing": "Immigration & Housing"
+    },
+    "articles": {
+      "a1": {
+        "title": "New Tenant Protection Laws Take Effect in 2024",
+        "excerpt": "Understanding the latest state and federal regulations protecting international renters from discrimination and unfair practices.",
+        "content": {
+          "p1": "As of January 2024, significant new tenant protection laws have come into effect across Spain and Italy, providing stronger safeguards for international renters. These regulations address long-standing concerns about discrimination, unfair lease practices, and the exploitation of foreign nationals unfamiliar with local housing laws.",
+          "p2": "The new legislation introduces stricter penalties for landlords who discriminate based on nationality or visa status, mandates clearer lease terms in multiple languages, and establishes faster dispute resolution mechanisms specifically designed to accommodate the time constraints faced by international students and workers.",
+          "point1": "Landlords must now provide lease agreements in the tenant's preferred language upon request",
+          "point2": "Discrimination based on nationality, visa status, or lack of local credit history is now explicitly prohibited with fines up to €15,000",
+          "point3": "Security deposit limits have been capped at two months' rent, with mandatory interest payments",
+          "point4": "New fast-track tribunals for housing disputes involving international residents, with decisions within 30 days",
+          "conclusion": "These new protections represent a major step forward for international residents in Spain and Italy. If you believe your rights under these new laws have been violated, our legal team can help you understand your options and take appropriate action. Contact us for a free consultation to discuss your specific situation."
+        }
+      },
+      "a2": {
+        "title": "Security Deposit Rights: What International Students Must Know",
+        "excerpt": "A comprehensive guide to understanding your security deposit rights, proper documentation, and recovery processes.",
+        "content": {
+          "p1": "Security deposits are one of the most common sources of disputes between international tenants and landlords. Many international students and professionals are unaware of their rights, leading to wrongful withholding of deposits when they move out. Understanding the law is your first line of defense.",
+          "p2": "In both Spain and Italy, landlords are legally required to return security deposits within a specific timeframe after lease termination, typically 30 days. They can only deduct for actual damages beyond normal wear and tear, and must provide itemized documentation for any deductions made.",
+          "point1": "Always document the property condition with dated photos and videos at move-in AND move-out",
+          "point2": "Request a signed inventory checklist from your landlord when you receive the keys",
+          "point3": "Normal wear and tear (minor scuffs, faded paint, worn carpets) cannot be deducted from your deposit",
+          "point4": "Keep all receipts for any repairs or cleaning you do before vacating the property",
+          "conclusion": "If your landlord refuses to return your deposit or makes unfair deductions, you have legal recourse. Our firm has successfully recovered thousands of euros in wrongfully withheld deposits for international clients. Don't let language barriers or unfamiliarity with local law cost you money you're entitled to keep."
+        }
+      },
+      "a3": {
+        "title": "Housing Discrimination Based on Visa Status: Recent Court Victory",
+        "excerpt": "Our firm successfully represented international students in a landmark case against discriminatory rental practices.",
+        "content": {
+          "p1": "In a landmark ruling this month, our legal team secured a significant victory for international students facing housing discrimination in Barcelona. The case involved a property management company that systematically rejected rental applications from non-EU nationals, regardless of their financial qualifications or rental history.",
+          "p2": "The court ruled that requiring EU citizenship or permanent residency as a blanket condition for renting violates anti-discrimination laws. The defendant was ordered to pay €25,000 in damages to the affected students and implement new non-discriminatory screening procedures.",
+          "point1": "Landlords cannot reject applicants solely based on visa type or nationality",
+          "point2": "Requiring a local guarantor only for foreign nationals is discriminatory",
+          "point3": "Higher deposit demands for international tenants without justification are illegal",
+          "point4": "Victims of housing discrimination can seek compensation plus coverage of alternative housing costs",
+          "conclusion": "This ruling sets an important precedent for international residents across Spain. If you've been denied housing based on your nationality or visa status, you may have grounds for legal action. Our team is committed to fighting housing discrimination and ensuring equal access to rental housing for all qualified applicants."
+        }
+      },
+      "a4": {
+        "title": "How to Document Habitability Issues in Your Rental",
+        "excerpt": "Step-by-step guide for international tenants on properly documenting maintenance problems and building a strong legal case.",
+        "content": {
+          "p1": "Living with habitability issues like mold, pest infestations, broken heating, or water damage is not only uncomfortable but potentially dangerous. As a tenant, you have the legal right to a habitable living space, and landlords are obligated to maintain the property in good condition. Proper documentation is essential if you need to take legal action.",
+          "p2": "Many international tenants hesitate to report problems, fearing retaliation or complications with their housing situation. However, understanding the proper documentation process protects you legally and strengthens your position if disputes arise.",
+          "point1": "Photograph and video all issues with timestamps - use your phone's automatic date feature",
+          "point2": "Send all repair requests in writing via email or registered mail to create a paper trail",
+          "point3": "Keep a dated log of all communications with your landlord regarding the issues",
+          "point4": "If health hazards exist, request an official inspection from local housing authorities",
+          "conclusion": "Well-documented habitability issues can support rent reduction claims, lease termination without penalty, or compensation for damages. Our legal team regularly helps international tenants navigate these situations. If your landlord is failing to address serious maintenance issues, contact us to understand your rights and options."
+        }
+      },
+      "a5": {
+        "title": "Understanding Lease Terms: Red Flags for International Renters",
+        "excerpt": "Common lease clauses that may unfairly target international students and working professionals, and how to negotiate better terms.",
+        "content": {
+          "p1": "Before signing any lease agreement, it's crucial to understand every clause and identify terms that could put you at a disadvantage. Unfortunately, some landlords include provisions that exploit international tenants' unfamiliarity with local rental laws. Knowing what to look for can save you significant money and stress.",
+          "p2": "Our legal team has reviewed thousands of lease agreements and consistently finds certain problematic clauses that international renters should question or negotiate. Being informed empowers you to advocate for fair terms before you're legally bound by an unfavorable contract.",
+          "point1": "Automatic renewal clauses that lock you in without explicit consent - ensure you can terminate with reasonable notice",
+          "point2": "Excessive penalty fees for early termination - these should be proportional and clearly defined",
+          "point3": "Clauses waiving your right to a habitable property or to take legal action - these are often unenforceable",
+          "point4": "Requirements to pay for repairs that are the landlord's responsibility under law",
+          "conclusion": "Never sign a lease you don't fully understand. Our lease review service, available in multiple languages, identifies problematic clauses and provides you with negotiation strategies. A small investment in legal review before signing can prevent major problems during and after your tenancy."
+        }
+      },
+      "a6": {
+        "title": "Eviction Protection During F-1 Status Changes",
+        "excerpt": "How changes in your student visa status affect your housing rights and what legal protections are available.",
+        "content": {
+          "p1": "Changes to your student visa status - whether transitioning to OPT, changing to a work visa, or facing unexpected status complications - do not automatically terminate your housing rights. Many international students are incorrectly told by landlords that visa status changes allow immediate lease termination or eviction. This is rarely true.",
+          "p2": "Your lease agreement is a contract independent of your immigration status. While your ability to remain in the country may be affected by visa changes, landlords generally cannot use immigration status as grounds for eviction if you're meeting your lease obligations.",
+          "point1": "A lease is a binding contract - visa status changes don't automatically void your rental agreement",
+          "point2": "Landlords cannot evict you based on immigration status alone if you're paying rent and following lease terms",
+          "point3": "If you need to leave the country, negotiate early termination rather than abandoning the lease",
+          "point4": "Document any threats related to your immigration status - this may constitute illegal discrimination",
+          "conclusion": "If you're facing housing issues related to changes in your visa status, it's important to understand both your immigration and housing rights. Our team has expertise in the intersection of immigration and housing law, and can help you navigate this complex situation. Contact us before making any decisions that could affect your legal standing."
+        }
+      }
+    },
+    "backToHome": "Back to Home",
+    "shareArticle": "Share this article",
+    "relatedArticles": "Related Articles",
+    "articleContent": {
+      "overview": "Overview",
+      "keyPoints": "Key Points",
+      "conclusion": "Conclusion"
+    }
+  },
+  "contact": {
+    "title": "Book Your Free Consultation",
+    "subtitle": "Get expert legal advice from attorneys who understand your unique situation as an international resident",
+    "form": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "country": "Country of Origin",
+      "visaStatus": "Visa Status",
+      "selectVisa": "Select visa status",
+      "issueType": "Type of Issue",
+      "selectIssue": "Select issue type",
+      "preferredLanguage": "Preferred Language for Consultation",
+      "describeSituation": "Describe Your Situation",
+      "placeholder": "Please provide details about your housing issue...",
+      "submit": "Schedule Free Consultation",
+      "submitting": "Submitting...",
+      "confidential": "Your information is confidential and protected by attorney-client privilege",
+      "successMessage": "Thank you! We've received your consultation request. Our team will contact you within 24 hours.",
+      "errorMessage": "Sorry, there was an error submitting your request. Please call us directly or try again."
+    },
+    "visaOptions": {
+      "f1": "F-1 Student",
+      "j1": "J-1 Exchange Visitor",
+      "h1b": "H-1B Work",
+      "l1": "L-1 Intracompany Transfer",
+      "o1": "O-1 Extraordinary Ability",
+      "other": "Other"
+    },
+    "issueOptions": {
+      "leaseReview": "Lease Agreement Review",
+      "landlordDispute": "Landlord Dispute",
+      "discrimination": "Housing Discrimination",
+      "securityDeposit": "Security Deposit Issue",
+      "contractNegotiation": "Contract Negotiation",
+      "immigrationHousing": "Immigration-Related Housing",
+      "other": "Other"
+    },
+    "contactInfo": {
+      "title": "Contact Information",
+      "phone": "Phone",
+      "email": "Email",
+      "businessHours": "Business Hours",
+      "weekdays": "Monday - Friday"
+    },
+    "liveChat": {
+      "title": "Live Chat Available",
+      "description": "Need immediate assistance? Our multilingual support team is available via live chat during business hours.",
+      "button": "Start Live Chat"
+    }
+  },
+  "footer": {
+    "description": "International housing and transfer services for Spain and Italy.",
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "resources": "Resources",
+    "newsUpdates": "News & Updates",
+    "servicesTitle": "Services",
+    "leaseReview": "Lease Agreement Review",
+    "landlordDisputes": "Landlord Disputes",
+    "housingDiscrimination": "Housing Discrimination",
+    "securityDeposit": "Security Deposit Recovery",
+    "contractNegotiations": "Contract Negotiations",
+    "immigrationHousing": "Immigration Housing",
+    "contact": "Contact",
+    "copyright": "© 2025 MEDITERRAN LEGAL ALLIANCE. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "accessibility": "Accessibility",
+    "disclaimer": "Spanish and Italian Legal Specialists | Attorney Advertising | Prior results do not guarantee similar outcomes"
+  }
+}
