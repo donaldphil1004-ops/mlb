@@ -10,7 +10,27 @@
     "resources": "Resources",
     "testimonials": "Testimonials",
     "news": "News",
-    "bookConsultation": "Book Consultation"
+    "bookConsultation": "Book Consultation",
+    "escrow": "Escrow Account"
+  },
+  "escrowModal": {
+    "title": "Client Trust Account",
+    "subtitle": "Secure Escrow Payment Details",
+    "description": "For your protection, all client funds are held in a secure escrow account until services are rendered. Please use the following details for payments:",
+    "bankDetails": "Bank Details",
+    "bankName": "Bank Name",
+    "accountName": "Account Name",
+    "iban": "IBAN",
+    "swift": "SWIFT/BIC",
+    "reference": "Reference",
+    "referenceNote": "Please include your case number or full name as reference",
+    "importantNote": "Important Note",
+    "importantText": "All funds deposited are held in trust and are fully protected. Funds will only be released upon completion of agreed services or returned to you upon request.",
+    "close": "Close",
+    "bankNameValue": "Banco Santander",
+    "accountNameValue": "MEDITERRAN LEGAL ALLIANCE Client Trust Account",
+    "ibanValue": "ES12 3456 7890 1234 5678 9012",
+    "swiftValue": "BSCHESMM"
   },
   "hero": {
     "badge": "Spain & Italy Housing Law Specialists",
@@ -107,9 +127,11 @@
       ]
     },
     "weHandle": "We handle:",
-    "ctaTitle": "Need Help with Your Move to Spain or Italy?",
-    "ctaDescription": "Contact us for a free consultation to discuss your international transfer and housing needs.",
-    "ctaButton": "Schedule Free Consultation"
+    "escrow": {
+      "title": "Client Trust Account",
+      "description": "All client funds are securely held in our regulated escrow account until services are completed.",
+      "button": "View Payment Details"
+    }
   },
   "resources": {
     "title": "Resources & Support",

@@ -10,7 +10,27 @@
     "resources": "Recursos",
     "testimonials": "Testimonios",
     "news": "Noticias",
-    "bookConsultation": "Reservar Consulta"
+    "bookConsultation": "Reservar Consulta",
+    "escrow": "Cuenta de Deposito"
+  },
+  "escrowModal": {
+    "title": "Cuenta de Fideicomiso del Cliente",
+    "subtitle": "Detalles de Pago en Deposito Seguro",
+    "description": "Para su proteccion, todos los fondos de los clientes se mantienen en una cuenta de deposito segura hasta que se presten los servicios. Por favor utilice los siguientes datos para los pagos:",
+    "bankDetails": "Datos Bancarios",
+    "bankName": "Nombre del Banco",
+    "accountName": "Nombre de la Cuenta",
+    "iban": "IBAN",
+    "swift": "SWIFT/BIC",
+    "reference": "Referencia",
+    "referenceNote": "Por favor incluya su numero de caso o nombre completo como referencia",
+    "importantNote": "Nota Importante",
+    "importantText": "Todos los fondos depositados se mantienen en fideicomiso y estan completamente protegidos. Los fondos solo se liberaran al completar los servicios acordados o se le devolveran a peticion suya.",
+    "close": "Cerrar",
+    "bankNameValue": "Banco Santander",
+    "accountNameValue": "MEDITERRAN LEGAL ALLIANCE Cuenta de Fideicomiso",
+    "ibanValue": "ES12 3456 7890 1234 5678 9012",
+    "swiftValue": "BSCHESMM"
   },
   "hero": {
     "badge": "Especialistas en Derecho de Vivienda en Espana e Italia",
@@ -107,9 +127,11 @@
       ]
     },
     "weHandle": "Manejamos:",
-    "ctaTitle": "Necesita Ayuda con su Mudanza a Espana o Italia?",
-    "ctaDescription": "Contactenos para una consulta gratuita para discutir sus necesidades de traslado internacional y vivienda.",
-    "ctaButton": "Programar Consulta Gratuita"
+    "escrow": {
+      "title": "Cuenta de Fideicomiso del Cliente",
+      "description": "Todos los fondos de los clientes se mantienen de forma segura en nuestra cuenta de deposito regulada hasta que se completen los servicios.",
+      "button": "Ver Detalles de Pago"
+    }
   },
   "resources": {
     "title": "Recursos y Apoyo",

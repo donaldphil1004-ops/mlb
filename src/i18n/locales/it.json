@@ -10,7 +10,27 @@
     "resources": "Risorse",
     "testimonials": "Testimonianze",
     "news": "Notizie",
-    "bookConsultation": "Prenota Consulenza"
+    "bookConsultation": "Prenota Consulenza",
+    "escrow": "Conto Fiduciario"
+  },
+  "escrowModal": {
+    "title": "Conto Fiduciario del Cliente",
+    "subtitle": "Dettagli del Pagamento in Deposito Sicuro",
+    "description": "Per la vostra protezione, tutti i fondi dei clienti sono conservati in un conto deposito sicuro fino alla prestazione dei servizi. Si prega di utilizzare i seguenti dati per i pagamenti:",
+    "bankDetails": "Coordinate Bancarie",
+    "bankName": "Nome della Banca",
+    "accountName": "Nome del Conto",
+    "iban": "IBAN",
+    "swift": "SWIFT/BIC",
+    "reference": "Causale",
+    "referenceNote": "Si prega di includere il numero del caso o il nome completo come causale",
+    "importantNote": "Nota Importante",
+    "importantText": "Tutti i fondi depositati sono tenuti in custodia fiduciaria e sono completamente protetti. I fondi saranno rilasciati solo al completamento dei servizi concordati o restituiti su vostra richiesta.",
+    "close": "Chiudi",
+    "bankNameValue": "Banco Santander",
+    "accountNameValue": "MEDITERRAN LEGAL ALLIANCE Conto Fiduciario Cliente",
+    "ibanValue": "ES12 3456 7890 1234 5678 9012",
+    "swiftValue": "BSCHESMM"
   },
   "hero": {
     "badge": "Specialisti in Diritto Immobiliare in Spagna e Italia",
@@ -107,9 +127,11 @@
       ]
     },
     "weHandle": "Gestiamo:",
-    "ctaTitle": "Hai Bisogno di Aiuto per il Tuo Trasferimento in Spagna o Italia?",
-    "ctaDescription": "Contattaci per una consulenza gratuita per discutere le tue esigenze di trasferimento internazionale e alloggio.",
-    "ctaButton": "Prenota Consulenza Gratuita"
+    "escrow": {
+      "title": "Conto Fiduciario del Cliente",
+      "description": "Tutti i fondi dei clienti sono custoditi in modo sicuro nel nostro conto deposito regolamentato fino al completamento dei servizi.",
+      "button": "Visualizza Dettagli Pagamento"
+    }
   },
   "resources": {
     "title": "Risorse e Supporto",
