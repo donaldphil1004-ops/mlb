@@ -1,4 +1,4 @@
-import { Menu, X, Phone, Shield, Building2, Copy, Check, AlertCircle } from 'lucide-react';
+import { Menu, X, Shield, Building2, Copy, Check, AlertCircle } from 'lucide-react';
 import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 
