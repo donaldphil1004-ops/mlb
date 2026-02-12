@@ -1,7 +1,6 @@
 {
   "header": {
-    "italy": "Italia",
-    "spain": "Espana",
+    "Ireland": "Ireland",
     "businessHours": "Lun-Vie: 09:00-17:00",
     "emergencyLine": "Linea de Emergencia 24/7",
     "home": "Inicio",
@@ -33,9 +32,9 @@
     "swiftValue": "BSCHESMM"
   },
   "hero": {
-    "badge": "Especialistas en Derecho de Vivienda en Espana e Italia",
-    "title": "Servicios Internacionales de Vivienda y Traslado para Espana e Italia",
-    "description": "Asistencia legal experta para traslados internacionales, arreglos de vivienda y apoyo en reubicacion para estudiantes y profesionales que se mudan a Espana e Italia. Nos encargamos de todos los tramites de vivienda para garantizar una transicion sin problemas.",
+    "badge": "Especialistas en Derecho de Vivienda en Ireland",
+    "title": "Servicios Internacionales de Vivienda y Traslado para Ireland",
+    "description": "Asistencia legal experta para traslados internacionales, arreglos de vivienda y apoyo en reubicacion para estudiantes y profesionales que se mudan Ireland. Nos encargamos de todos los tramites de vivienda para garantizar una transicion sin problemas.",
     "freeConsultation": "Consulta Gratuita",
     "ourServices": "Nuestros Servicios",
     "casesWon": "Casos Ganados",
@@ -46,14 +45,14 @@
   },
   "about": {
     "title": "Sobre MEDITERRAN LEGAL ALLIANCE",
-    "subtitle": "Servicios legales especializados para traslados internacionales de vivienda, reubicacion y derechos de inquilinos en Espana e Italia.",
+    "subtitle": "Servicios legales especializados para traslados internacionales de vivienda, reubicacion y derechos de inquilinos Ireland.",
     "missionTitle": "Nuestra Mision",
-    "missionText1": "MEDITERRAN LEGAL ALLIANCE se especializa en asistencia integral de vivienda para estudiantes internacionales y profesionales que se reubican en Espana e Italia. Manejamos todos los aspectos de su traslado internacional y arreglos de vivienda para garantizar una transicion perfecta.",
+    "missionText1": "MEDITERRAN LEGAL ALLIANCE se especializa en asistencia integral de vivienda para estudiantes internacionales y profesionales que se reubican en Ireland . Manejamos todos los aspectos de su traslado internacional y arreglos de vivienda para garantizar una transicion perfecta.",
     "missionText2": "Nuestro equipo de expertos gestiona contratos de arrendamiento, relaciones con propietarios, requisitos de documentacion y cumplimiento legal para reubicaciones internacionales en el Mediterraneo. Proporcionamos soporte bilingue para que su transicion sea fluida y sin estres.",
-    "specialistsTitle": "Especialistas en Espana e Italia",
-    "specialistsDesc": "Licenciados y certificados en derecho de vivienda espanol e italiano",
+    "specialistsTitle": "Especialistas en Ireland",
+    "specialistsDesc": "Licenciados y certificados en derecho de vivienda Ireland",
     "multilingualTitle": "Soporte Multilingue",
-    "multilingualDesc": "Fluido en ingles, espanol, italiano y otros idiomas",
+    "multilingualDesc": "Fluido en ingles, otros idiomas",
     "immigrationTitle": "Conocimiento en Ley de Inmigracion",
     "immigrationDesc": "Entendiendo las implicaciones de visa en asuntos de vivienda",
     "clientTitle": "Enfoque Centrado en el Cliente",
@@ -65,7 +64,7 @@
   },
   "services": {
     "title": "Nuestros Servicios",
-    "subtitle": "Soluciones completas de vivienda y traslado internacional para estudiantes y profesionales que se reubican en Espana e Italia",
+    "subtitle": "Soluciones completas de vivienda y traslado internacional para estudiantes y profesionales que se reubican en Ireland",
     "leaseReview": {
       "title": "Revision de Contrato de Arrendamiento",
       "description": "Analisis experto de contratos de alquiler antes de firmar. Identificamos clausulas injustas, tarifas ocultas y terminos que pueden perjudicar a inquilinos internacionales.",
@@ -234,13 +233,13 @@
         "title": "Nuevas Leyes de Proteccion al Inquilino Entran en Vigor en 2024",
         "excerpt": "Entendiendo las ultimas regulaciones estatales y federales que protegen a inquilinos internacionales de discriminacion y practicas injustas.",
         "content": {
-          "p1": "A partir de enero de 2024, nuevas e importantes leyes de proteccion al inquilino han entrado en vigor en Espana e Italia, proporcionando mayores garantias para los inquilinos internacionales. Estas regulaciones abordan preocupaciones de larga data sobre discriminacion, practicas de arrendamiento injustas y la explotacion de ciudadanos extranjeros que no estan familiarizados con las leyes locales de vivienda.",
+          "p1": "A partir de enero de 2024, nuevas e importantes leyes de proteccion al inquilino han entrado en vigor en Ireland, proporcionando mayores garantias para los inquilinos internacionales. Estas regulaciones abordan preocupaciones de larga data sobre discriminacion, practicas de arrendamiento injustas y la explotacion de ciudadanos extranjeros que no estan familiarizados con las leyes locales de vivienda.",
           "p2": "La nueva legislacion introduce penalidades mas estrictas para los propietarios que discriminan por nacionalidad o estado de visa, exige terminos de arrendamiento mas claros en multiples idiomas y establece mecanismos de resolucion de disputas mas rapidos, disenados especificamente para adaptarse a las limitaciones de tiempo que enfrentan los estudiantes y trabajadores internacionales.",
           "point1": "Los propietarios ahora deben proporcionar contratos de arrendamiento en el idioma preferido del inquilino cuando se solicite",
           "point2": "La discriminacion basada en nacionalidad, estado de visa o falta de historial crediticio local esta ahora explicitamente prohibida con multas de hasta 15.000€",
           "point3": "Los limites de deposito de seguridad se han fijado en dos meses de alquiler, con pagos de intereses obligatorios",
           "point4": "Nuevos tribunales de via rapida para disputas de vivienda que involucren a residentes internacionales, con decisiones en 30 dias",
-          "conclusion": "Estas nuevas protecciones representan un gran avance para los residentes internacionales en Espana e Italia. Si cree que sus derechos bajo estas nuevas leyes han sido violados, nuestro equipo legal puede ayudarle a entender sus opciones y tomar las medidas apropiadas. Contactenos para una consulta gratuita para discutir su situacion especifica."
+          "conclusion": "Estas nuevas protecciones representan un gran avance para los residentes internacionales en Ireland. Si cree que sus derechos bajo estas nuevas leyes han sido violados, nuestro equipo legal puede ayudarle a entender sus opciones y tomar las medidas apropiadas. Contactenos para una consulta gratuita para discutir su situacion especifica."
         }
       },
       "a2": {
@@ -248,7 +247,7 @@
         "excerpt": "Una guia completa para entender sus derechos de deposito de seguridad, documentacion adecuada y procesos de recuperacion.",
         "content": {
           "p1": "Los depositos de seguridad son una de las fuentes mas comunes de disputas entre inquilinos internacionales y propietarios. Muchos estudiantes internacionales y profesionales desconocen sus derechos, lo que lleva a la retencion injusta de depositos cuando se mudan. Entender la ley es su primera linea de defensa.",
-          "p2": "Tanto en Espana como en Italia, los propietarios estan legalmente obligados a devolver los depositos de seguridad dentro de un plazo especifico despues de la terminacion del contrato, generalmente 30 dias. Solo pueden deducir por danos reales mas alla del desgaste normal, y deben proporcionar documentacion detallada de cualquier deduccion realizada.",
+          "p2": "Tanto en Ireland, los propietarios estan legalmente obligados a devolver los depositos de seguridad dentro de un plazo especifico despues de la terminacion del contrato, generalmente 30 dias. Solo pueden deducir por danos reales mas alla del desgaste normal, y deben proporcionar documentacion detallada de cualquier deduccion realizada.",
           "point1": "Siempre documente la condicion de la propiedad con fotos y videos fechados al momento de la entrada Y la salida",
           "point2": "Solicite una lista de inventario firmada de su propietario cuando reciba las llaves",
           "point3": "El desgaste normal (pequenos rasgunos, pintura descolorida, alfombras gastadas) no puede ser deducido de su deposito",
@@ -266,7 +265,7 @@
           "point2": "Requerir un garante local solo para nacionales extranjeros es discriminatorio",
           "point3": "Demandas de deposito mas altas para inquilinos internacionales sin justificacion son ilegales",
           "point4": "Las victimas de discriminacion de vivienda pueden buscar compensacion mas cobertura de costos de vivienda alternativa",
-          "conclusion": "Este fallo establece un precedente importante para los residentes internacionales en toda Espana. Si le han negado vivienda basandose en su nacionalidad o estado de visa, puede tener motivos para una accion legal. Nuestro equipo esta comprometido con la lucha contra la discriminacion de vivienda y garantizar el acceso igualitario a viviendas de alquiler para todos los solicitantes calificados."
+          "conclusion": "Este fallo establece un precedente importante para los residentes internacionales en toda Ireland. Si le han negado vivienda basandose en su nacionalidad o estado de visa, puede tener motivos para una accion legal. Nuestro equipo esta comprometido con la lucha contra la discriminacion de vivienda y garantizar el acceso igualitario a viviendas de alquiler para todos los solicitantes calificados."
         }
       },
       "a4": {
@@ -370,7 +369,7 @@
     }
   },
   "footer": {
-    "description": "Servicios internacionales de vivienda y traslado para Espana e Italia.",
+    "description": "Servicios internacionales de vivienda y traslado para Ireland.",
     "quickLinks": "Enlaces Rapidos",
     "aboutUs": "Nosotros",
     "services": "Servicios",
@@ -388,6 +387,6 @@
     "privacyPolicy": "Politica de Privacidad",
     "termsOfService": "Terminos de Servicio",
     "accessibility": "Accesibilidad",
-    "disclaimer": "Especialistas Legales en Espana e Italia | Publicidad de Abogados | Resultados anteriores no garantizan resultados similares"
+    "disclaimer": "Especialistas Legales en Ireland | Publicidad de Abogados | Resultados anteriores no garantizan resultados similares"
   }
 }

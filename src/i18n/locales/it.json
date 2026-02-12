@@ -1,7 +1,6 @@
 {
   "header": {
-    "italy": "Italia",
-    "spain": "Spagna",
+    "Ireland": "Irlanda",
     "businessHours": "Lun-Ven: 09:00-17:00",
     "emergencyLine": "Linea di Emergenza 24/7",
     "home": "Home",
@@ -33,8 +32,8 @@
     "swiftValue": "BSCHESMM"
   },
   "hero": {
-    "badge": "Specialisti in Diritto Immobiliare in Spagna e Italia",
-    "title": "Servizi Internazionali di Alloggio e Trasferimento per Spagna e Italia",
+    "badge": "Specialisti in Diritto Immobiliare in Irlanda",
+    "title": "Servizi Internazionali di Alloggio e Trasferimento per Irlanda",
     "description": "Assistenza legale esperta per trasferimenti internazionali, sistemazioni abitative e supporto al trasferimento per studenti e professionisti che si trasferiscono in Spagna e Italia. Gestiamo tutti gli adempimenti abitativi per garantire una transizione senza problemi.",
     "freeConsultation": "Consulenza Gratuita",
     "ourServices": "I Nostri Servizi",
@@ -46,12 +45,12 @@
   },
   "about": {
     "title": "Chi e MEDITERRAN LEGAL ALLIANCE",
-    "subtitle": "Servizi legali specializzati per trasferimenti abitativi internazionali, ricollocazione e diritti degli inquilini in Spagna e Italia.",
+    "subtitle": "Servizi legali specializzati per trasferimenti abitativi internazionali, ricollocazione e diritti degli inquilini in Irlanda.",
     "missionTitle": "La Nostra Missione",
-    "missionText1": "MEDITERRAN LEGAL ALLIANCE e specializzata nell'assistenza abitativa completa per studenti internazionali e professionisti che si trasferiscono in Spagna e Italia. Gestiamo tutti gli aspetti del vostro trasferimento internazionale e delle sistemazioni abitative per garantire una transizione senza intoppi.",
+    "missionText1": "MEDITERRAN LEGAL ALLIANCE e specializzata nell'assistenza abitativa completa per studenti internazionali e professionisti che si trasferiscono in Irlanda. Gestiamo tutti gli aspetti del vostro trasferimento internazionale e delle sistemazioni abitative per garantire una transizione senza intoppi.",
     "missionText2": "Il nostro team di esperti gestisce contratti di locazione, rapporti con i proprietari, requisiti documentali e conformita legale per i trasferimenti internazionali nel Mediterraneo. Forniamo supporto bilingue per rendere la vostra transizione fluida e senza stress.",
-    "specialistsTitle": "Specialisti in Spagna e Italia",
-    "specialistsDesc": "Autorizzati e certificati in diritto immobiliare spagnolo e italiano",
+    "specialistsTitle": "Specialisti in Irlanda",
+    "specialistsDesc": "Autorizzati e certificati in diritto immobiliare Irlanda",
     "multilingualTitle": "Supporto Multilingue",
     "multilingualDesc": "Fluenti in inglese, spagnolo, italiano e altre lingue",
     "immigrationTitle": "Conoscenza del Diritto dell'Immigrazione",

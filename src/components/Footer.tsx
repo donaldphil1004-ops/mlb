@@ -75,10 +75,6 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-start text-slate-400">
                 <Phone className="w-5 h-5 mr-3 flex-shrink-0 mt-0.5" />
-                <div>
-                  <div className="text-sm">{t('header.italy')}: +39 350 9398753</div>
-                  <div className="text-sm">{t('header.spain')}: +34 622 329306</div>
-                </div>
               </div>
               <div className="flex items-start text-slate-400">
                 <Mail className="w-5 h-5 mr-3 flex-shrink-0 mt-0.5" />
@@ -86,7 +82,7 @@ export default function Footer() {
               </div>
               <div className="flex items-start text-slate-400">
                 <MapPin className="w-5 h-5 mr-3 flex-shrink-0 mt-0.5" />
-                <div className="text-sm">{t('header.spain')} & {t('header.italy')}</div>
+                <div className="text-sm">{t('header.Ireland')}
               </div>
             </div>
           </div>

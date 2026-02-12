@@ -33,11 +33,10 @@ export default function Header() {
           <div className="flex items-center gap-6">
             <div className="flex items-center gap-2">
               <Phone className="w-4 h-4" />
-              <span>{t('header.italy')}: +39 350 9398753</span>
-            </div>
+
             <div className="hidden sm:flex items-center gap-2">
               <Phone className="w-4 h-4" />
-              <span>{t('header.spain')}: +34 622 329306</span>
+              <span>{t('header.Ireland')}: +353 89 986 1673</span>
             </div>
           </div>
           <span className="text-blue-100">{t('header.businessHours')}</span>

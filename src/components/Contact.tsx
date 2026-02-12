@@ -252,11 +252,6 @@ export default function Contact() {
               <div className="space-y-4">
                 <div className="flex items-start">
                   <Phone className="w-6 h-6 mr-4 flex-shrink-0 mt-1" />
-                  <div>
-                    <div className="font-semibold mb-2">{t('contact.contactInfo.phone')}</div>
-                    <div className="text-blue-100 text-sm mb-1">{t('header.italy')}: +39 350 9398753</div>
-                    <div className="text-blue-100 text-sm">{t('header.spain')}: +34 622 329306</div>
-                  </div>
                 </div>
                 <div className="flex items-start">
                   <Mail className="w-6 h-6 mr-4 flex-shrink-0 mt-1" />
