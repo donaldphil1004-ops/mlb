@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Linkedin } from 'lucide-react';
+import { Mail, MapPin, Linkedin } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
 export default function Footer() {
@@ -74,7 +74,6 @@ export default function Footer() {
             <h4 className="font-bold mb-4">{t('footer.contact')}</h4>
             <div className="space-y-3">
               <div className="flex items-start text-slate-400">
-                <Phone className="w-5 h-5 mr-3 flex-shrink-0 mt-0.5" />
               </div>
               <div className="flex items-start text-slate-400">
                 <Mail className="w-5 h-5 mr-3 flex-shrink-0 mt-0.5" />
