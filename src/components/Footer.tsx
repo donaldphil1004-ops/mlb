@@ -82,7 +82,7 @@ export default function Footer() {
               </div>
               <div className="flex items-start text-slate-400">
                 <MapPin className="w-5 h-5 mr-3 flex-shrink-0 mt-0.5" />
-                <div className="text-sm">{t('header.Ireland')}
+                <div className="text-sm">{t('header.Ireland')}</div>
               </div>
             </div>
           </div>
