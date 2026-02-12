@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Mail, Phone, Clock, Send, CheckCircle, ArrowLeft } from 'lucide-react';
+import { Mail, Clock, Send, CheckCircle, ArrowLeft } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
 export default function Contact() {
@@ -250,8 +250,7 @@ export default function Contact() {
             <div className="bg-blue-600 rounded-2xl p-8 text-white">
               <h3 className="text-2xl font-bold mb-6">{t('contact.contactInfo.title')}</h3>
               <div className="space-y-4">
-                <div className="flex items-start">
-                  <Phone className="w-6 h-6 mr-4 flex-shrink-0 mt-1" />
+                <div className="flex items-start">         
                 </div>
                 <div className="flex items-start">
                   <Mail className="w-6 h-6 mr-4 flex-shrink-0 mt-1" />

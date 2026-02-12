@@ -32,12 +32,6 @@ export default function Header() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center flex-wrap gap-4">
           <div className="flex items-center gap-6">
             <div className="flex items-center gap-2">
-              <Phone className="w-4 h-4" />
-              <span className="hidden sm:inline">{t('header.Ireland')}: +353 89 986 1673</span>
-            </div>
-            <div className="hidden sm:flex items-center gap-2">
-              <Phone className="w-4 h-4" />
-              <span>{t('header.Ireland')}: +353 89 986 1673</span>
             </div>
           </div>
           <span className="text-blue-100">{t('header.businessHours')}</span>
