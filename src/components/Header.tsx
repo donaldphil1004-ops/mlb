@@ -218,7 +218,7 @@ export default function Header() {
                   {/* Beneficiary Account Holder */}
                   <div className="flex justify-between items-start">
                     <div className="flex-1">
-                      <p className="text-xs text-slate-500 uppercase tracking-wide">{t('escrowModal.beneficiaryAccountHolder')}</p>
+                      <p className="text-xs text-slate-500 uppercase tracking-wide">{t('Beneficiary Account Holder')}</p>
                       <p className="font-medium text-slate-900">{t('escrowModal.beneficiaryAccountHolderValue')}</p>
                     </div>
                     <button
