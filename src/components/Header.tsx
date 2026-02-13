@@ -215,7 +215,20 @@ export default function Header() {
                       <p className="font-medium text-slate-900">{t('escrowModal.bankNameValue')}</p>
                     </div>
                   </div>
-
+                  {/* Beneficiary Account Holder */}
+                  <div className="flex justify-between items-start">
+                    <div className="flex-1">
+                      <p className="text-xs text-slate-500 uppercase tracking-wide">{t('escrowModal.accountName')}</p>
+                      <p className="font-medium text-slate-900">{t('escrowModal.accountNameValue')}</p>
+                    </div>
+                    <button
+                      onClick={() => copyToClipboard(t('escrowModal.accountNameValue'), 'account')}
+                      className="ml-2 p-2 text-slate-400 hover:text-blue-600 transition-colors"
+                      title="Copy"
+                    >
+                      {copiedField === 'account' ? <Check className="w-4 h-4 text-green-600" /> : <Copy className="w-4 h-4" />}
+                    </button>
+                  </div>
                   {/* Account Name */}
                   <div className="flex justify-between items-start">
                     <div className="flex-1">

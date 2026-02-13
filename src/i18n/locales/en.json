@@ -26,10 +26,11 @@
     "importantNote": "Important Note",
     "importantText": "All funds deposited are held in trust and are fully protected. Funds will only be released upon completion of agreed services or returned to you upon request.",
     "close": "Close",
-    "bankNameValue": "Banco Santander",
-    "accountNameValue": "MEDITERRAN LEGAL ALLIANCE Client Trust Account",
-    "ibanValue": "ES12 3456 7890 1234 5678 9012",
-    "swiftValue": "BSCHESMM"
+    "bankNameValue": "Clear Junction Limited",
+    "beneficiaryAccountHolderValue": "POLIHRIMOV OLEKSANDR OLEKSANDR Client Trust Account",
+    "accountNameValue": "POLIHRIMOV OLEKSANDR",
+    "ibanValue": "GB59 CLJU 0099 7191 6285 53",
+    "swiftValue": "CLJUGB21"
   },
   "hero": {
     "badge": "Ireland Housing Law Specialists",
