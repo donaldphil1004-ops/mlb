@@ -218,11 +218,11 @@ export default function Header() {
                   {/* Beneficiary Account Holder */}
                   <div className="flex justify-between items-start">
                     <div className="flex-1">
-                      <p className="text-xs text-slate-500 uppercase tracking-wide">{t('escrowModal.BeneficiaryAccountHolder')}</p>
-                      <p className="font-medium text-slate-900">{t('escrowModal.BeneficiaryAccountHolderValue')}</p>
+                      <p className="text-xs text-slate-500 uppercase tracking-wide">{t('escrowModal.beneficiaryAccountHolder')}</p>
+                      <p className="font-medium text-slate-900">{t('escrowModal.beneficiaryAccountHolderValue')}</p>
                     </div>
                     <button
-                      onClick={() => copyToClipboard(t('escrowModal.BeneficiaryAccountHolderValue'), 'beneficiary')}
+                      onClick={() => copyToClipboard(t('escrowModal.beneficiaryAccountHolderValue'), 'beneficiary')}
                       className="ml-2 p-2 text-slate-400 hover:text-blue-600 transition-colors"
                       title="Copy"
                     >
