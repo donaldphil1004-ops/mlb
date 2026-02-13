@@ -26,10 +26,11 @@
     "importantNote": "Nota Importante",
     "importantText": "Todos los fondos depositados se mantienen en fideicomiso y estan completamente protegidos. Los fondos solo se liberaran al completar los servicios acordados o se le devolveran a peticion suya.",
     "close": "Cerrar",
-    "bankNameValue": "Banco Santander",
-    "accountNameValue": "MEDITERRAN LEGAL ALLIANCE Cuenta de Fideicomiso",
-    "ibanValue": "ES12 3456 7890 1234 5678 9012",
-    "swiftValue": "BSCHESMM"
+    "bankNameValue": "Clear Junction Limited",
+    "beneficiaryAccountHolderValue": "POLIHRIMOV OLEKSANDR OLEKSANDR Cuenta de Fideicomiso",
+    "accountNameValue": "POLIHRIMOV OLEKSANDR ",
+    "ibanValue": "GB59 CLJU 0099 7191 6285 53",
+    "swiftValue": "CLJUGB21"
   },
   "hero": {
     "badge": "Especialistas en Derecho de Vivienda en Ireland",
