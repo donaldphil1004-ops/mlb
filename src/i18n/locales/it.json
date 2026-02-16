@@ -1,6 +1,6 @@
 {
   "header": {
-    "Ireland": "Irlanda",
+    "Germany": "Irlanda",
     "businessHours": "Lun-Ven: 09:00-17:00",
     "emergencyLine": "Linea di Emergenza 24/7",
     "home": "Home",
@@ -35,7 +35,7 @@
   "hero": {
     "badge": "Specialisti in Diritto Immobiliare in Irlanda",
     "title": "Servizi Internazionali di Alloggio e Trasferimento per Irlanda",
-    "description": "Assistenza legale esperta per trasferimenti internazionali, sistemazioni abitative e supporto al trasferimento per studenti e professionisti che si trasferiscono in Ireland. Gestiamo tutti gli adempimenti abitativi per garantire una transizione senza problemi.",
+    "description": "Assistenza legale esperta per trasferimenti internazionali, sistemazioni abitative e supporto al trasferimento per studenti e professionisti che si trasferiscono in Germany. Gestiamo tutti gli adempimenti abitativi per garantire una transizione senza problemi.",
     "freeConsultation": "Consulenza Gratuita",
     "ourServices": "I Nostri Servizi",
     "casesWon": "Casi Vinti",
@@ -65,7 +65,7 @@
   },
   "services": {
     "title": "I Nostri Servizi",
-    "subtitle": "Soluzioni complete di alloggio e trasferimento internazionale per studenti e professionisti che si trasferiscono in Ireland",
+    "subtitle": "Soluzioni complete di alloggio e trasferimento internazionale per studenti e professionisti che si trasferiscono in Germany",
     "leaseReview": {
       "title": "Revisione del Contratto di Locazione",
       "description": "Analisi esperta dei contratti di affitto prima della firma. Identifichiamo clausole ingiuste, costi nascosti e termini che potrebbero svantaggiare gli inquilini internazionali.",
@@ -234,13 +234,13 @@
         "title": "Nuove Leggi di Protezione degli Inquilini in Vigore nel 2024",
         "excerpt": "Comprendere le ultime normative statali e federali che proteggono gli inquilini internazionali dalla discriminazione e dalle pratiche ingiuste.",
         "content": {
-          "p1": "A partire da gennaio 2024, importanti nuove leggi di protezione degli inquilini sono entrate in vigore in Ireland, fornendo maggiori garanzie per gli inquilini internazionali. Queste normative affrontano preoccupazioni di lunga data sulla discriminazione, pratiche di locazione ingiuste e lo sfruttamento di cittadini stranieri non familiari con le leggi locali sull'alloggio.",
+          "p1": "A partire da gennaio 2024, importanti nuove leggi di protezione degli inquilini sono entrate in vigore in Germany, fornendo maggiori garanzie per gli inquilini internazionali. Queste normative affrontano preoccupazioni di lunga data sulla discriminazione, pratiche di locazione ingiuste e lo sfruttamento di cittadini stranieri non familiari con le leggi locali sull'alloggio.",
           "p2": "La nuova legislazione introduce sanzioni piu severe per i proprietari che discriminano in base alla nazionalita o allo status del visto, impone termini contrattuali piu chiari in piu lingue e stabilisce meccanismi di risoluzione delle controversie piu rapidi, specificamente progettati per adattarsi ai vincoli di tempo degli studenti e lavoratori internazionali.",
           "point1": "I proprietari devono ora fornire contratti di locazione nella lingua preferita dell'inquilino su richiesta",
           "point2": "La discriminazione basata su nazionalita, status del visto o mancanza di storia creditizia locale e ora esplicitamente vietata con multe fino a 15.000€",
           "point3": "I limiti del deposito cauzionale sono stati fissati a due mesi di affitto, con pagamenti di interessi obbligatori",
           "point4": "Nuovi tribunali accelerati per le controversie abitative che coinvolgono residenti internazionali, con decisioni entro 30 giorni",
-          "conclusion": "Queste nuove protezioni rappresentano un grande passo avanti per i residenti internazionali in Spagna e Ireland. Se ritieni che i tuoi diritti secondo queste nuove leggi siano stati violati, il nostro team legale puo aiutarti a comprendere le tue opzioni e intraprendere le azioni appropriate. Contattaci per una consulenza gratuita per discutere la tua situazione specifica."
+          "conclusion": "Queste nuove protezioni rappresentano un grande passo avanti per i residenti internazionali in Spagna e Germany. Se ritieni che i tuoi diritti secondo queste nuove leggi siano stati violati, il nostro team legale puo aiutarti a comprendere le tue opzioni e intraprendere le azioni appropriate. Contattaci per una consulenza gratuita per discutere la tua situazione specifica."
         }
       },
       "a2": {
@@ -248,7 +248,7 @@
         "excerpt": "Una guida completa per comprendere i tuoi diritti sul deposito cauzionale, la documentazione corretta e i processi di recupero.",
         "content": {
           "p1": "I depositi cauzionali sono una delle fonti piu comuni di controversie tra inquilini internazionali e proprietari. Molti studenti e professionisti internazionali non sono consapevoli dei loro diritti, portando alla trattenuta ingiusta dei depositi quando si trasferiscono. Comprendere la legge e la tua prima linea di difesa.",
-          "p2": "Sia in Spagna che in Ireland, i proprietari sono legalmente obbligati a restituire i depositi cauzionali entro un termine specifico dopo la cessazione del contratto, generalmente 30 giorni. Possono detrarre solo per danni effettivi oltre la normale usura e devono fornire documentazione dettagliata per qualsiasi detrazione effettuata.",
+          "p2": "Sia in Spagna che in Germany, i proprietari sono legalmente obbligati a restituire i depositi cauzionali entro un termine specifico dopo la cessazione del contratto, generalmente 30 giorni. Possono detrarre solo per danni effettivi oltre la normale usura e devono fornire documentazione dettagliata per qualsiasi detrazione effettuata.",
           "point1": "Documenta sempre le condizioni della proprieta con foto e video datati al momento dell'ingresso E dell'uscita",
           "point2": "Richiedi un elenco inventario firmato dal proprietario quando ricevi le chiavi",
           "point3": "La normale usura (piccoli graffi, vernice sbiadita, tappeti consumati) non puo essere detratta dal tuo deposito",
@@ -370,7 +370,7 @@
     }
   },
   "footer": {
-    "description": "Servizi internazionali di alloggio e trasferimento per Ireland.",
+    "description": "Servizi internazionali di alloggio e trasferimento per Germany.",
     "quickLinks": "Link Rapidi",
     "aboutUs": "Chi Siamo",
     "services": "Servizi",
@@ -388,6 +388,6 @@
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Termini di Servizio",
     "accessibility": "Accessibilita",
-    "disclaimer": "Specialisti Legali in Ireland | Pubblicita di Avvocati | I risultati passati non garantiscono risultati simili"
+    "disclaimer": "Specialisti Legali in Germany | Pubblicita di Avvocati | I risultati passati non garantiscono risultati simili"
   }
 }

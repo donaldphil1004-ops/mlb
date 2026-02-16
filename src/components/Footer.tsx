@@ -81,7 +81,7 @@ export default function Footer() {
               </div>
               <div className="flex items-start text-slate-400">
                 <MapPin className="w-5 h-5 mr-3 flex-shrink-0 mt-0.5" />
-                <div className="text-sm">{t('17 New St Gardens, Portobello, Dublin 8, D08 E8X6, Ireland')}</div>
+                <div className="text-sm">{t('17 New St Gardens, Portobello, Dublin 8, D08 E8X6, Germany')}</div>
               </div>
             </div>
           </div>
