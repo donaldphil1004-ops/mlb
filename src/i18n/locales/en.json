@@ -1,6 +1,6 @@
 {
   "header": {
-    "Germany": "Germany",
+    "Ireland": "Ireland",
     "businessHours": "Mon-Fri: 09:00-17:00",
     "emergencyLine": "24/7 Emergency Line",
     "home": "Home",
@@ -33,9 +33,9 @@
     "swiftValue": "CLJUGB21"
   },
   "hero": {
-    "badge": "Germany Housing Law Specialists",
-    "title": "International Housing & Transfer Services for Germany",
-    "description": "Expert legal assistance for international transfers, housing arrangements, and relocation support for students and working professionals moving to Germany. We handle all housing duties to ensure a smooth transition.",
+    "badge": "Ireland Housing Law Specialists",
+    "title": "International Housing & Transfer Services for Ireland",
+    "description": "Expert legal assistance for international transfers, housing arrangements, and relocation support for students and working professionals moving to Ireland. We handle all housing duties to ensure a smooth transition.",
     "freeConsultation": "Free Consultation",
     "ourServices": "Our Services",
     "casesWon": "Cases Won",
@@ -46,12 +46,12 @@
   },
   "about": {
     "title": "About MEDITERRAN LEGAL ALLIANCE",
-    "subtitle": "Specialized legal services for international housing transfers, relocation, and tenant rights in Germany",
+    "subtitle": "Specialized legal services for international housing transfers, relocation, and tenant rights in Ireland",
     "missionTitle": "Our Mission",
-    "missionText1": "MEDITERRAN LEGAL ALLIANCE specializes in comprehensive housing assistance for international students and working professionals relocating to Germany. We handle all aspects of your international transfer and housing arrangements to ensure a seamless transition.",
+    "missionText1": "MEDITERRAN LEGAL ALLIANCE specializes in comprehensive housing assistance for international students and working professionals relocating to Ireland. We handle all aspects of your international transfer and housing arrangements to ensure a seamless transition.",
     "missionText2": "Our expert team manages lease agreements, landlord relations, documentation requirements, and legal compliance for international relocations across the Mediterranean. We provide bilingual support to make your transition smooth and stress-free.",
-    "specialistsTitle": "Germany Specialists",
-    "specialistsDesc": "Licensed and certified in Germany housing law",
+    "specialistsTitle": "Ireland Specialists",
+    "specialistsDesc": "Licensed and certified in Ireland housing law",
     "multilingualTitle": "Multilingual Support",
     "multilingualDesc": "Fluent in English, Spanish, Italian, and multiple other languages",
     "immigrationTitle": "Immigration Law Knowledge",
@@ -65,7 +65,7 @@
   },
   "services": {
     "title": "Our Services",
-    "subtitle": "Complete international housing and transfer solutions for students and professionals relocating to Germany",
+    "subtitle": "Complete international housing and transfer solutions for students and professionals relocating to Ireland",
     "leaseReview": {
       "title": "Lease Agreement Review",
       "description": "Expert analysis of rental contracts before you sign. We identify unfair clauses, hidden fees, and terms that may disadvantage international tenants.",
@@ -234,13 +234,13 @@
         "title": "New Tenant Protection Laws Take Effect in 2024",
         "excerpt": "Understanding the latest state and federal regulations protecting international renters from discrimination and unfair practices.",
         "content": {
-          "p1": "As of January 2024, significant new tenant protection laws have come into effect across Germany, providing stronger safeguards for international renters. These regulations address long-standing concerns about discrimination, unfair lease practices, and the exploitation of foreign nationals unfamiliar with local housing laws.",
+          "p1": "As of January 2024, significant new tenant protection laws have come into effect across Ireland, providing stronger safeguards for international renters. These regulations address long-standing concerns about discrimination, unfair lease practices, and the exploitation of foreign nationals unfamiliar with local housing laws.",
           "p2": "The new legislation introduces stricter penalties for landlords who discriminate based on nationality or visa status, mandates clearer lease terms in multiple languages, and establishes faster dispute resolution mechanisms specifically designed to accommodate the time constraints faced by international students and workers.",
           "point1": "Landlords must now provide lease agreements in the tenant's preferred language upon request",
           "point2": "Discrimination based on nationality, visa status, or lack of local credit history is now explicitly prohibited with fines up to €15,000",
           "point3": "Security deposit limits have been capped at two months' rent, with mandatory interest payments",
           "point4": "New fast-track tribunals for housing disputes involving international residents, with decisions within 30 days",
-          "conclusion": "These new protections represent a major step forward for international residents in Germany. If you believe your rights under these new laws have been violated, our legal team can help you understand your options and take appropriate action. Contact us for a free consultation to discuss your specific situation."
+          "conclusion": "These new protections represent a major step forward for international residents in Ireland. If you believe your rights under these new laws have been violated, our legal team can help you understand your options and take appropriate action. Contact us for a free consultation to discuss your specific situation."
         }
       },
       "a2": {
@@ -248,7 +248,7 @@
         "excerpt": "A comprehensive guide to understanding your security deposit rights, proper documentation, and recovery processes.",
         "content": {
           "p1": "Security deposits are one of the most common sources of disputes between international tenants and landlords. Many international students and professionals are unaware of their rights, leading to wrongful withholding of deposits when they move out. Understanding the law is your first line of defense.",
-          "p2": "In Germany, landlords are legally required to return security deposits within a specific timeframe after lease termination, typically 30 days. They can only deduct for actual damages beyond normal wear and tear, and must provide itemized documentation for any deductions made.",
+          "p2": "In Ireland, landlords are legally required to return security deposits within a specific timeframe after lease termination, typically 30 days. They can only deduct for actual damages beyond normal wear and tear, and must provide itemized documentation for any deductions made.",
           "point1": "Always document the property condition with dated photos and videos at move-in AND move-out",
           "point2": "Request a signed inventory checklist from your landlord when you receive the keys",
           "point3": "Normal wear and tear (minor scuffs, faded paint, worn carpets) cannot be deducted from your deposit",
@@ -266,7 +266,7 @@
           "point2": "Requiring a local guarantor only for foreign nationals is discriminatory",
           "point3": "Higher deposit demands for international tenants without justification are illegal",
           "point4": "Victims of housing discrimination can seek compensation plus coverage of alternative housing costs",
-          "conclusion": "This ruling sets an important precedent for international residents across Germany. If you've been denied housing based on your nationality or visa status, you may have grounds for legal action. Our team is committed to fighting housing discrimination and ensuring equal access to rental housing for all qualified applicants."
+          "conclusion": "This ruling sets an important precedent for international residents across Ireland. If you've been denied housing based on your nationality or visa status, you may have grounds for legal action. Our team is committed to fighting housing discrimination and ensuring equal access to rental housing for all qualified applicants."
         }
       },
       "a4": {
@@ -370,7 +370,7 @@
     }
   },
   "footer": {
-    "description": "International housing and transfer services for Germany.",
+    "description": "International housing and transfer services for Ireland.",
     "quickLinks": "Quick Links",
     "aboutUs": "About Us",
     "services": "Services",
@@ -388,6 +388,6 @@
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service",
     "accessibility": "Accessibility",
-    "disclaimer": "Germany Legal Specialists | Attorney Advertising | Prior results do not guarantee similar outcomes"
+    "disclaimer": "Ireland Legal Specialists | Attorney Advertising | Prior results do not guarantee similar outcomes"
   }
 }
